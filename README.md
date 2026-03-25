@@ -174,17 +174,9 @@ A built-in secure editor with:
 
 ## 📦 Installation
 
-```bash
-pip install customtkinter cryptography
-```
+Download latest VAULT.exe from the [RELEASES](https://github.com/Tesseract1net/VAULT/releases)
 
-Run:
-
-```bash
-python vault.py
-```
-
----
+RUN THE VAULT.EXE application and you're ready to go .
 
 ## 🚀 Usage
 
